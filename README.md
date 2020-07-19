@@ -1,6 +1,10 @@
 # VisualFlickr
 
-
+VisualFlickr is a CNN-based tool which can infer emotion and sentiment from Flickr pictures.
+It is based on Caffe framework.
+VF allows keyword based search and the analysis of entire profiles from Flickr.
+The GUI shows photos, data and pie charts in order to clarify provided information.
+All info in VisualFlickr complete white paper.pdf
 
 ## Requirements
 
