@@ -21,7 +21,7 @@ numpy == 1.13.3
 
 # modules/user_interface.py: 7
 # modules/utils.py: 3
-requests == 2.18.4
+requests == 2.20.0
 
 # demo.py: 7
 # modules/user_interface.py: 8
