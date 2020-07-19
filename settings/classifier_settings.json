@@ -1,0 +1,44 @@
+{
+  "english": {
+    "structure_model": "net/english/english_inception_mvso-hybrid.prototxt",
+    "pre_trained_model": "net/english/english_inception_mvso-hybrid.caffemodel",
+    "mean_file": "net/english/english_meanimage.binaryproto",
+    "labels_file": "net/english/english_label.txt",
+    "verbose": "3"
+  },
+  "chinese": {
+    "structure_model": "net/chinese/chinese_inception_mvso-hybrid.prototxt",
+    "pre_trained_model": "net/chinese/chinese_inception_mvso-hybrid.caffemodel",
+    "mean_file": "net/chinese/chinese_meanimage.binaryproto",
+    "labels_file": "net/chinese/chinese_label.txt",
+    "verbose": "3"
+  },
+  "french": {
+    "structure_model": "net/french/french_inception_mvso-hybrid.prototxt",
+    "pre_trained_model": "net/french/french_inception_mvso-hybrid.caffemodel",
+    "mean_file": "net/french/french_meanimage.binaryproto",
+    "labels_file": "net/french/french_label.txt",
+    "verbose": "3"
+  },
+  "german": {
+    "structure_model": "net/german/german_inception_mvso-hybrid.prototxt",
+    "pre_trained_model": "net/german/german_inception_mvso-hybrid.caffemodel",
+    "mean_file": "net/german/german_meanimage.binaryproto",
+    "labels_file": "net/german/german_label.txt",
+    "verbose": "3"
+  },
+  "italian": {
+    "structure_model": "net/italian/italian_inception_mvso-hybrid.prototxt",
+    "pre_trained_model": "net/italian/italian_inception_mvso-hybrid.caffemodel",
+    "mean_file": "net/italian/italian_meanimage.binaryproto",
+    "labels_file": "net/italian/italian_label.txt",
+    "verbose": "3"
+  },
+  "spanish": {
+    "structure_model": "net/spanish/spanish_inception_mvso-hybrid.prototxt",
+    "pre_trained_model": "net/spanish/spanish_inception_mvso-hybrid.caffemodel",
+    "mean_file": "net/spanish/spanish_meanimage.binaryproto",
+    "labels_file": "net/spanish/spanish_label.txt",
+    "verbose": "3"
+  }
+}

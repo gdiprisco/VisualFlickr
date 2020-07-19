@@ -1,0 +1,26 @@
+{
+  "english": {
+    "emotion_csv": "mvso_scores/ANP_emotion_scores/ANP_emotion_mapping_english.csv",
+    "sentiment_csv": "mvso_scores/mvso_sentiment/english.csv"
+  },
+  "chinese": {
+    "emotion_csv": "mvso_scores/ANP_emotion_scores/ANP_emotion_mapping_chinese.csv",
+    "sentiment_csv": "mvso_scores/mvso_sentiment/chinese.csv"
+  },
+  "french": {
+    "emotion_csv": "mvso_scores/ANP_emotion_scores/ANP_emotion_mapping_french.csv",
+    "sentiment_csv": "mvso_scores/mvso_sentiment/french.csv"
+  },
+  "german": {
+    "emotion_csv": "mvso_scores/ANP_emotion_scores/ANP_emotion_mapping_german.csv",
+    "sentiment_csv": "mvso_scores/mvso_sentiment/german.csv"
+  },
+  "italian": {
+    "emotion_csv": "mvso_scores/ANP_emotion_scores/ANP_emotion_mapping_italian.csv",
+    "sentiment_csv": "mvso_scores/mvso_sentiment/italian.csv"
+  },
+  "spanish": {
+    "emotion_csv": "mvso_scores/ANP_emotion_scores/ANP_emotion_mapping_spanish.csv",
+    "sentiment_csv": "mvso_scores/mvso_sentiment/spanish.csv"
+  }
+}

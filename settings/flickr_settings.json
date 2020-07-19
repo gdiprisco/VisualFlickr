@@ -1,0 +1,19 @@
+{
+  "my_api_key": "30fa92273a34a1609616d5e7bb7423cb",
+  "my_api_secret": "dcfd91271448d315",
+  "base_link": "https://www.flickr.com/photos/",
+  "image_sizes": {
+    "default": "",
+    "square_75x75": "_s",
+    "square_150x150": "_q",
+    "longedge_100": "_t",
+    "longedge_240": "_m",
+    "longedge_320": "_n",
+    "longedge_500": "_-",
+    "longedge_640": "_z",
+    "longedge_800": "_c",
+    "longedge_1024": "_b",
+    "longedge_1600": "_h",
+    "longedge_2048": "_k"
+  }
+}
