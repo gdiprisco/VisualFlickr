@@ -17,7 +17,7 @@ matplotlib == 2.1.1
 # modules/label_manager.py: 1
 # modules/ontology_manager.py: 3
 # modules/utils.py: 8
-numpy == 1.13.3
+numpy == 1.22.0
 
 # modules/user_interface.py: 7
 # modules/utils.py: 3
